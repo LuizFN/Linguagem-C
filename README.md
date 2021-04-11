@@ -1,2 +1,3 @@
 # Linguagem C
- C
+
+ Estrutura de dados em C.
